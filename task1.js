@@ -1,6 +1,6 @@
 import "./styles.css";
 
-import { dataBooks } from "./data.mjs";
+import { dataBooks } from "./task1-data.mjs";
 
 // Select the HTML elements
 const containerBook = document.getElementById("container-book");
