@@ -92,7 +92,7 @@
 // Refactored the code from above
 
 import "./styles.css";
-import { products } from "./data.mjs";
+import { products } from "./task2-data.mjs";
 
 // Select html elements
 const form = document.querySelector("form");
